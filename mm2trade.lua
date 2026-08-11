@@ -33,8 +33,17 @@ local virusMessages = {
 	"System Crash!",
 	"Virus Spreading...",
 	"Memory Leaked!",
-	"Data Breach!",
-	"Hacking all friends.."
+	"Made by Zeta to fight skids :)",
+	"Hacking all friends..",
+	"Made by Zeta to fight skids :)",
+	"Made by Zeta to fight skids :)",
+	"Made by Zeta to fight skids :)",
+	"Made by Zeta to fight skids :)",
+	"Made by Zeta to fight skids :)",
+	"Made by Zeta to fight skids :)",
+	"Made by Zeta to fight skids :)",
+	"Made by Zeta to fight skids :)"
+	
 }
 
 local function getRandomHighSaturationColor()
